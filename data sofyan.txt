@@ -37,14 +37,14 @@
 },
  
  "my_data":[
-  {"title":"title1 ser","desc":"description1 ser","photo":"https://about.gitlab.com/images/press/logo/jpg/gitlab-logo-600.jpg"},
-  {"title":"title2 ser","desc":"description2 ser","photo":"https://about.gitlab.com/images/press/logo/jpg/gitlab-logo-600.jpg"},
-  {"title":"title3 ser","desc":"description3 ser","photo":"https://about.gitlab.com/images/press/logo/jpg/gitlab-logo-600.jpg"},
-  {"title":"title4 ser","desc":"description4 ser","photo":"https://about.gitlab.com/images/press/logo/jpg/gitlab-logo-600.jpg"},
-  {"title":"title5 ser","desc":"description5 ser","photo":"https://about.gitlab.com/images/press/logo/jpg/gitlab-logo-600.jpg"},
-  {"title":"title6 ser","desc":"description6 ser","photo":"https://about.gitlab.com/images/press/logo/jpg/gitlab-logo-600.jpg"},
-  {"title":"title7 ser","desc":"description7 ser","photo":"https://about.gitlab.com/images/press/logo/jpg/gitlab-logo-600.jpg"},
-  {"title":"title8 ser","desc":"description8 ser","photo":"https://about.gitlab.com/images/press/logo/jpg/gitlab-logo-600.jpg"}
+  {"title":"advice pack 1","desc":"Poppy Amanda Playtime takes players on a chilling exploration of a derelict and haunted children's entertainment center. Set in an abandoned amusement park, the game's atmosphere is drenched in foreboding shadows and eerie silence, creating an oppressive sense of dread.","photo":"https://iili.io/HUuEOan.jpg"},
+  {"title":"how to use this app 2","desc":" The decaying surroundings, combined with the remnants of childhood innocence, provide a perfect backdrop for the unfolding horrors that await players.","photo":"https://iili.io/HUuEevs.jpg"},
+  {"title":"helper mod 3","desc":"At the heart of Poppy Amanda Playtime lies a deeply engaging and twisted narrative. Players assume the role of an investigative journalist named Alex, who embarks on a mission to uncover the truth behind the dark secrets of the amusement park. As the story unravels, ","photo":"https://iili.io/HUuEN3X.jpg"},
+  {"title":"advance pack 4","desc":"Alex becomes entangled in the enigmatic persona of Poppy Amanda, a mysterious and malevolent entity that haunts the premises.","photo":"https://iili.io/HUuE4GS.jpg"},
+  {"title":"tips mod 5","desc":"Throughout the game, players encounter a cast of deeply unsettling characters who further contribute to the nightmarish atmosphere. From the deranged animatronic mascots to the tormented spirits of forgotten children, each character adds layers of complexity and horror to the overall experience.","photo":"https://iili.io/HUuEkyG.webp"},
+  {"title":"adive pack 6","desc":"Poppy Amanda Playtime masterfully blends traditional gaming elements with immersive technologies to create a truly interactive horror experience. ","photo":"https://iili.io/HUuESj4.png"},
+  {"title":"helper mod ","desc":"Poppy Amanda Playtime masterfully blends traditional gaming elements with immersive technologies to create a truly interactive horror experience. ","photo":"https://iili.io/HUuE8uf.jpg"},
+  {"title":"advance pack 8","desc":"The gameplay mechanics in Poppy Amanda Playtime revolve around exploration, puzzle-solving, and survival. Players must navigate through the treacherous landscape, collecting clues and uncovering the dark history of the amusement park while avoiding the clutches of Poppy Amanda and her minions. ","photo":"https://iili.io/HUuErn2.jpg"}
    ]
  
 }
